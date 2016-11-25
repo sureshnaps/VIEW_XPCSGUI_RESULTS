@@ -1,0 +1,58 @@
+{
+"viewresult":
+{
+	"inputs":
+	[
+		{"name":"filename", "kind":"required", "type":"filepath"}
+	]
+},
+
+"viewresult_all_hdf5":
+{
+	"inputs":
+	[
+		{"name":"filename", "kind":"required", "type":"filepath"}
+	]
+},
+
+"writeh5str":
+{
+	"inputs":
+	[
+		{"name":"filename", "kind":"required", "type":"filepath"}
+	]
+},
+
+"collectimg":
+{
+	"inputs":
+	[
+		{"name":"filename", "kind":"required", "type":"filepath"}
+	]
+},
+
+"loadhdf5result":
+{
+	"inputs":
+	[
+		{"name":"filename", "kind":"required", "type":"filepath"}
+	]
+},
+
+"hdf5_find_group_suffix":
+{
+	"inputs":
+	[
+		{"name":"filename", "kind":"required", "type":"filepath"}
+	]
+},
+
+"save_g2fit_hdf5":
+{
+	"inputs":
+	[
+		{"name":"filename", "kind":"required", "type":"filepath"}
+	]
+}
+
+}
