@@ -1,4 +1,4 @@
-clear avg_file;
+ clear avg_file;
 cd /mnt/nfs/or-data/xpcs8/2014-2/archer201405/cluster_results;
 % avg_file{1}='SP1_att2_TimeSeries_avg.mat';
 % avg_file{2}='SP1_att1_TimeSeries_avg.mat';
